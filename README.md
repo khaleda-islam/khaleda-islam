@@ -43,11 +43,10 @@ I’m a passionate Programmer with professional experience in software developme
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat&logo=spring&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTful_API-005571?style=flat)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat)
-![Micro Frontend](https://img.shields.io/badge/Micro_Frontend-0A66C2?style=flat)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat)
+![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-990000?style=flat)
 
 ---
 ### 🤖 AI & AI-Powered Development  
@@ -57,8 +56,22 @@ I’m a passionate Programmer with professional experience in software developme
 ### 💬 Messaging & Event Systems  
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) ![MassTransit](https://img.shields.io/badge/MassTransit-5C6BC0?style=flat&logo=mass-transit&logoColor=white) ![Azure Service Bus](https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
+---
 
+### 🏗️ Architecture & Design Patterns
+![MVC](https://img.shields.io/badge/MVC-512BD4?style=flat)
+![MVVM](https://img.shields.io/badge/MVVM-0078D4?style=flat)
+![N-Tier Architecture](https://img.shields.io/badge/N--Tier_Architecture-FF6F00?style=flat)
+![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-4CAF50?style=flat)
+![Microservice Architecture](https://img.shields.io/badge/Microservice_Architecture-FF6F00?style=flat)
+![Micro Frontend Architecture](https://img.shields.io/badge/Micro_Frontend_Architecture-0A66C2?style=flat)
 
+### 🖥️ Servers & Deployment
+![IIS](https://img.shields.io/badge/IIS-5C2D91?style=flat&logo=windows&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black)
+![Eureka](https://img.shields.io/badge/Eureka-00C7B7?style=flat&logo=spring&logoColor=white)
+
+---
 
 ## 🗄️ Databases
 
@@ -88,6 +101,8 @@ I’m a passionate Programmer with professional experience in software developme
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-217346?style=flat&logo=microsoft&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white) ![Azure DevOps Boards](https://img.shields.io/badge/Azure_DevOps_Boards-0078D7?style=flat&logo=azure-devops&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-FF6F20?style=flat&logo=scrum&logoColor=white) ![Kanban](https://img.shields.io/badge/Kanban-0078D7?style=flat&logo=kanban&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-FF6F20?style=flat&logo=agile&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![TFS](https://img.shields.io/badge/TFS-5C2D91?style=flat&logo=azure-devops&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
 ---
 ## 🏫 Project Support Co-op — Centennial College PMO Office
