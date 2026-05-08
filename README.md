@@ -1,35 +1,34 @@
 # 👋 Hi there, I'm Khaleda Islam
 
-🎯 **Software Engineering Student | Full-Stack & Backend Developer | AI-Assisted Development Enthusiast | Oracle Certified Professional**
+🎯 **Software Engineer | Full-Stack Developer | AI-Assisted Development Enthusiast | Oracle Certified Professional**
 
 Welcome to my GitHub! 👋  
-I’m a passionate Software Engineering Technology student at Centennial College with professional experience in software development, database systems, software testing, IT support, and project coordination. I enjoy building scalable applications, solving real-world business problems, and exploring modern technologies including AI-assisted development and cloud computing.
-
-Previously, I worked as a **Software Engineer at Leads Corporation Ltd.** in Bangladesh, where I developed and maintained enterprise broker back-office applications using **C#, ASP.NET MVC, SQL Server, and Oracle**. I collaborated directly with clients, handled production issues, deployed software solutions, and worked with large-scale business datasets.
-
-Currently, I am completing my co-op placement at **Centennial College PMO Office**, where I support **ServiceNow projects, testing, documentation, IT operations, and project coordination** while working closely with cross-functional teams.
+I’m a passionate Programmer with professional experience in software development, database systems, software testing, IT support, and project coordination. I enjoy building scalable applications, solving real-world business problems, and exploring modern technologies including AI-assisted development and cloud computing.
 
 ---
 
 # 🚀 About Me
 
-- 🌍 Based in **Toronto, ON, Canada**
-- 🎓 Studying **Software Engineering Technology (Co-op)** at **Centennial College**
-- 💼 Former **Software Engineer** at **Leads Corporation Ltd.**
-- 🧪 Co-op experience in **PMO Project Support & ServiceNow Testing**
-- 🗄️ Oracle Certified Professional (**OCP**) in Database Development
-- 🤖 Interested in **AI-Assisted Development, Backend Engineering, Databases, and Cloud Technologies**
-- 🌱 Currently learning **AI/ML, Agentic AI Concepts, Cloud Computing, and Advanced Full-Stack Development**
-- 🤝 Enjoy working in Agile and collaborative team environments
+  🌍 Based in **Toronto, ON, Canada**  
+  🎓 Studying **Software Engineering Technology (Co-op)** at **Centennial College**  
+ 💼 Former **Software Engineer** at **Leads Corporation Ltd.**  
+ 🧪 Co-op experience in **PMO Project Support & ServiceNow Testing** at **Centennial College**  
+ 🗄️ Oracle Certified Professional (**OCP**) in Database Development  
+ 🤖 Experienced **AI-Assisted Development, Backend Engineering, Databases, and Cloud Technologies**  
+ 🌱 Currently learning **AI/ML, Agentic AI Concepts, Cloud Computing, and Advanced Full-Stack Development**  
+ 🤝 Experienced with Agile and collaborative team environments  
 
 ---
 
 # 🧰 Tech Stack
 
-## 💻 Programming Languages & Web Technologies
+## 💻 Languages & Frameworks
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Web Forms](https://img.shields.io/badge/ASP.NET_Web_Forms-1c3b87?style=flat&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
@@ -38,12 +37,8 @@ Currently, I am completing my co-op placement at **Centennial College PMO Office
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat)
-
----
-
-## ⚙️ Frameworks & Technologies
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -55,6 +50,15 @@ Currently, I am completing my co-op placement at **Centennial College PMO Office
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat)
 
 ---
+### 🤖 AI & AI-Powered Development  
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white) ![Microsoft 365 Copilot](https://img.shields.io/badge/Microsoft_365_Copilot-0078D4?style=flat&logo=microsoft&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D4A373?style=flat&logo=anthropic&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=flat&logoColor=white) ![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F61?style=flat&logo=tensorflow&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-412991?style=flat&logo=openai&logoColor=white) ![Agentic Coding](https://img.shields.io/badge/Agentic_Coding-6E40C9?style=flat&logo=probot&logoColor=white)
+
+
+### 💬 Messaging & Event Systems  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) ![MassTransit](https://img.shields.io/badge/MassTransit-5C6BC0?style=flat&logo=mass-transit&logoColor=white) ![Azure Service Bus](https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+
+
 
 ## 🗄️ Databases
 
@@ -64,25 +68,11 @@ Currently, I am completing my co-op placement at **Centennial College PMO Office
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ---
-
-## 🤖 AI & Emerging Technologies
-
-- AI-assisted Software Development using **GitHub Copilot, Claude AI, and ChatGPT**
-- Prompt Engineering and AI-driven development workflows
-- Understanding of **Agentic AI concepts** and **LLM-powered applications**
-- Experience leveraging AI tools for:
-  - debugging
-  - documentation
-  - testing
-  - productivity enhancement
-- Familiar with:
-  - Machine Learning (ML)
-  - Neural Networks
-  - NLP (Natural Language Processing)
-  - Deep Learning (DL)
-  - RAG (Retrieval-Augmented Generation) fundamentals
+### 🧪 Testing & QA  
+![xUnit](https://img.shields.io/badge/xUnit-AD2B2D?style=flat) ![MSTest](https://img.shields.io/badge/MSTest-0078D7?style=flat) ![NUnit](https://img.shields.io/badge/NUnit-00A300?style=flat&logo=nunit&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-F57232?style=flat&logo=apache-jmeter&logoColor=white)
 
 ---
 
@@ -94,15 +84,10 @@ Currently, I am completing my co-op placement at **Centennial College PMO Office
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 ---
-
-## 🔄 Version Control & Project Management
-
+### 📋Project Management & Version Control
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-217346?style=flat&logo=microsoft&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white) ![Azure DevOps Boards](https://img.shields.io/badge/Azure_DevOps_Boards-0078D7?style=flat&logo=azure-devops&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-FF6F20?style=flat&logo=scrum&logoColor=white) ![Kanban](https://img.shields.io/badge/Kanban-0078D7?style=flat&logo=kanban&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-FF6F20?style=flat&logo=agile&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-FF6F20?style=flat)
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Project Management](https://img.shields.io/badge/Project_Management-217346?style=flat)
 
 ---
 ## 🏫 Project Support Co-op — Centennial College PMO Office
