@@ -105,6 +105,40 @@ I’m a passionate Programmer with professional experience in software developme
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
 ---
+
+# 🚀 Featured Projects
+
+## 🚢 [Online Cruise Booking System](https://github.com/khaleda-islam/online-cruise-booking-system)
+
+A full-stack enterprise web application for cruise reservation management with secure authentication, payment processing, and comprehensive admin features.
+
+### 🔑 Key Features
+- **User Authentication & Authorization** — Secure login/registration with BCrypt password hashing and role-based access control (ROLE_USER, ROLE_ADMIN)
+- **Booking Management** — Complete booking workflow with status tracking (PENDING → CONFIRMED → CANCELLED)
+- **Payment Processing** — Support for multiple payment methods (Credit/Debit Card, PayPal, Apple Pay, Google Pay) with PDF receipt generation
+- **Admin Dashboard** — Real-time summary of cruises, bookings, users, and ships with comprehensive management features
+- **Cruise & Ship Management** — Full CRUD operations for cruises, ships, ports, and cabin types
+- **Passenger Management** — Add and manage passenger details for each booking with validation
+- **Cancellation Policy** — 10-day cancellation rule enforcement with automated date validation
+- **PDF Receipt Generation** — Downloadable payment receipts using iText 7 library
+
+### 🛠️ Technology Stack
+**Backend:** Java 21, Spring Boot 4.0.3, Spring Security 6.x, Spring Data JPA, Hibernate 7.2.4, MySQL 8.0  
+**Frontend:** Thymeleaf 3.1.x, Bootstrap 5.x, HTML5/CSS3, JavaScript ES6+  
+**Tools:** Maven 3.9+, BCrypt, iText 7
+
+### 📊 Database Design
+9 relational tables with JPA/Hibernate ORM mapping including Users, Ships, Ports, Cruises, Bookings, Passengers, Payment Transactions, Cabin Types, and Cruise Cabins.
+
+### 🎯 Architecture
+MVC Architecture with layered design (Controller → Service → Repository → Entity) following Spring Boot best practices and RESTful API principles.
+
+**🔗 [View Project](https://github.com/khaleda-islam/online-cruise-booking-system)** | **📜 [MIT License](https://github.com/khaleda-islam/online-cruise-booking-system/blob/main/LICENSE)**
+
+---
+
+# 💼 Professional Experience
+
 ## 🏫 Project Support Co-op — Centennial College PMO Office
 **Sep 2025 – Dec 2025 | Toronto, ON**
 
