@@ -3,7 +3,7 @@
 🎯 **Software Engineer | Full-Stack Developer | AI-Assisted Development Enthusiast | Oracle Certified Professional**
 
 Welcome to my GitHub! 👋  
-I’m a passionate Programmer with professional experience in software development, database systems, software testing, IT support, and project coordination. I enjoy building scalable applications, solving real-world business problems, and exploring modern technologies including AI-assisted development and cloud computing.
+I’m a passionate Programmer with professional experience in software development, database systems, software testing, IT support, and project coordination. I enjoy creating end-to-end scalable applications, transforming ideas into fully deployed solutions, solving real-world business challenges, and exploring modern technologies including AI-assisted development and cloud computing.
 
 ---
 
