@@ -12,7 +12,7 @@ I’m a passionate Programmer with professional experience in software developme
   🌍 Based in **Toronto, ON, Canada**  
   🎓 Studying **Software Engineering Technology (Co-op)** at **Centennial College**  
  💼 Former **Software Engineer** at **Leads Corporation Ltd.**  
- 🧪 Co-op experience in **PMO Project Support & ServiceNow Testing** at **Centennial College**  
+ 🧪 Co-op experience in **PMO Project Support & ServiceNow ** at **Centennial College**  
  🗄️ Oracle Certified Professional (**OCP**) in Database Development  
  🤖 Experienced **AI-Assisted Development, Backend Engineering, Databases, and Cloud Technologies**  
  🌱 Currently learning **AI/ML, Agentic AI Concepts, Cloud Computing, and Advanced Full-Stack Development**  
