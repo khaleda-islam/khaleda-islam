@@ -122,6 +122,22 @@ A full-stack enterprise web application for cruise reservation management with s
 
 ---
 
+## 🍕 [Food Delivery Microservices Platform](https://github.com/khaleda-islam/food-delivery-microservices)
+
+A modern microservices-based food delivery platform with service discovery, API gateway routing, reactive programming, and dual interfaces (React customer UI + Thymeleaf admin panel).
+
+### 🛠️ Technology Stack
+**Backend Microservices:** Java 21, Spring Boot 4.0.5, Spring WebFlux (Reactive), Spring Cloud 2025.1.1, Spring Cloud Netflix Eureka, Spring Cloud Gateway, Spring Data Reactive MongoDB 4.0.5, Project Reactor  
+**Frontend:** React 19.2.4, React Router DOM 7.14.0, Axios 1.14.0, Node.js 16+  
+**Admin Panel:** Thymeleaf 3.1.x, Bootstrap 5.x, Server-Side Rendering  
+**Database:** MongoDB Atlas (Cloud Database)  
+**Architecture:** Microservices, Service Discovery, API Gateway Pattern, Reactive Programming  
+**Tools:** Maven 3.9+, Docker, Docker Compose
+
+**🔗 [View Project](https://github.com/khaleda-islam/food-delivery-microservices)** | **📖 [Full Documentation](https://github.com/khaleda-islam/food-delivery-microservices#readme)**
+
+---
+
 # 💼 Professional Experience
 
 ## 🏫 Project Support Co-op — Centennial College PMO Office
