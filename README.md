@@ -150,16 +150,20 @@ Enterprise-level capital market and brokerage management software serving 100+ a
 
 ---
 
-# 💼 Professional Experience
+## 🎓 Trent–Centennial Pathway Project
 
-## 🏫 Project Support Co-op — Centennial College PMO Office
-**Sep 2025 – Dec 2025 | Toronto, ON**
+Academic pathway initiative developed through the Centennial College PMO Office to support transfer opportunities between Centennial College and Trent University by improving collaboration, documentation, and project coordination processes.
 
-- Delivered Tier-1 IT support for students and staff
-- Assisted with **ServiceNow** upgrade testing and validation
-- Configured ServiceNow forms and workflows
-- Supported PMO documentation, project tracking, and stakeholder coordination
-- Participated in functional testing and defect tracking activities
+### 🛠️ Technology & Tools
+**Platform:** ServiceNow  
+**Project Management:** Microsoft Office Suite, SharePoint, Microsoft Project  
+**Practices:** Functional Testing, SDLC, Documentation & Process Management
+
+**📌 Focus Areas:** Project Coordination, ServiceNow Support, Documentation, Testing & Stakeholder Communication  
+**🏫 Organization:** Centennial College PMO Office | Toronto, Canada
+
+---
+
 # 💼 Professional Experience
 
 ## 🏢 Software Engineer — Leads Corporation Ltd.
