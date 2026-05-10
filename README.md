@@ -138,6 +138,18 @@ A modern microservices-based food delivery platform with service discovery, API 
 
 ---
 
+## 📈 BLUECHIP Broker Back-Office System
+
+Enterprise-level capital market and brokerage management software serving 100+ active brokerage clients across Bangladesh. The system supports comprehensive trading operations, loan management, client accounts, regulatory reporting, and financial back-office processes, recognized as one of the leading broker back-office solutions in the Bangladeshi capital market.
+
+### 🛠️ Technology Stack
+**Backend:** C#, ASP.NET Web Forms, .NET Framework  
+**Database:** Microsoft SQL Server  
+**Reporting:** Crystal Reports  
+**Hosting & Deployment:** IIS Server
+
+---
+
 # 💼 Professional Experience
 
 ## 🏫 Project Support Co-op — Centennial College PMO Office
