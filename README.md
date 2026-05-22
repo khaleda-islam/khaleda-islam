@@ -138,6 +138,21 @@ A modern microservices-based food delivery platform with service discovery, API 
 
 ---
 
+## 🏘️ [Property Management System](https://github.com/khaleda-islam/fullstack-property-manager)
+
+A comprehensive full-stack web application designed to streamline property management operations, maintenance workflows, and real-time communication between Landlords, Residents, and Contractors. Features real-time messaging, automated notifications, cloud-based file storage, and scheduled email reminders.
+
+### 🛠️ Technology Stack
+**Backend:** Node.js 18+, Express 5.2, MongoDB 7.1, Mongoose 9.3, Socket.IO 4.8, Auth0 (JWT RS256), Cloudinary 2.2, Brevo 5.0, node-cron 4.2  
+**Frontend:** React 19.2, Vite 8.0, React Router 7.13, Bootstrap 5.3, Auth0 React SDK 2.15, Socket.IO Client 4.8  
+**Architecture:** Three-tier Architecture, MVC Pattern, RESTful API, WebSocket Real-time Communication  
+**Database:** MongoDB (9 collections: User, Profile, Property, Assignment, Maintenance, Room, Message, Notification, Rating)  
+**Key Features:** Role-based access control (Landlord/Resident/Contractor), Real-time messaging & notifications, Maintenance tracking with photo uploads, Contractor assignment & rating system, Automated lease reminder emails
+
+**🔗 [View Project](https://github.com/khaleda-islam/fullstack-property-manager)** | **📖 [Full Documentation](https://github.com/khaleda-islam/fullstack-property-manager#readme)** | **📜 [MIT License](https://github.com/khaleda-islam/fullstack-property-manager/blob/main/LICENSE)**
+
+---
+
 ## 📈 BLUECHIP Broker Back-Office System
 
 Enterprise-level capital market and brokerage management software serving 100+ active brokerage clients across Bangladesh. The system supports comprehensive trading operations, loan management, client accounts, regulatory reporting, and financial back-office processes, recognized as one of the leading broker back-office solutions in the Bangladeshi capital market.
